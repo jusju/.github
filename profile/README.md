@@ -2,14 +2,23 @@
 
 Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppimianne ohjelmointitaitoja mm. tietokantojen parissa. Syvennymme kielen syntaksin ja tarvittavien kirjastojen lisäksi myös yksikkötestaukseen, automaatiotyökaluihin sekä versionhallintaan.
 
+Tämä kurssisivu täydentää Ohjelmointi 2 -toteutusten yhteistä [ohjelmointi2.github.io](https://ohjelmointi2.github.io)-sivustoa ja sisältää erityisesti tietoa virtual- ja online-toteutusten käytännön järjestelyistä.
 
-## [](#) Kurssin sisältö viikoittain:
 
-### [](#) 1. Versionhallinta ja kurssin työkalut
+## [](#) Online- ja virtual-toteutusten sisältö viikoittain
 
-Edeltävillä kursseilla olet hyödyntänyt todennäköisesti Eclipseä tai VS Codea sekä Viope-tehtäväjärjestelmää. Tällä opintojaksolla laajennamme työkalujen valikoimaa ja hyödynnämme mm. Git-versionhallintaa, Gradle-automaatiotyökalua sekä JUnit-testaustyökalua.
+Online-toteutuksen oppitunnit järjestetään kurssin Teams-kanavalla viikoittain **maanantaisin klo 17.40 alkaen**. Virtual- ja online-toteutusten osallistujat ovat yhtä lailla tervetulleita osallistumaan Teams-oppitunneille tai opiskelemaan itsenäisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
 
-Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödyntämään koko loppukurssin ajan. Tavoitteenamme on, että sovellusta voidaan suorittaa suoraviivaisesti myös koodieditorin ulkopuolella ja että sen kääntäminen, riippuvuuksien asentaminen, paketointi sekä testaaminen voidaan tarvittaessa automatisoida.
+Kurssin osasuorituksiin kuuluu viikoittaiset harjoitustehtävät kurssin eri osa-alueista. Tehtävien teknisessä toteutuksessa hyödynnetään GitHub classroom -palvelua sekä Teams-ryhmää. Tehtävät tulee palauttaa aikataulun mukaisesti.
+
+
+### [](#) Viikko 1: Versionhallinta ja kurssin työkalut
+
+Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödyntämään koko loppukurssin ajan. Tavoitteenamme on, että sovellusta voidaan suorittaa suoraviivaisesti myös koodieditorin ulkopuolella ja että sovelluksen kääntäminen, riippuvuuksien asentaminen, paketointi sekä testaaminen voidaan tarvittaessa automatisoida.
+
+Git-versionhallintaa käytetään tällä kurssilla tehtävien jakeluun, niiden palauttamiseen sekä automaattiseen arviointiin. Myöhemmillä kursseilla ja työelämässä tulet todennäköisesti käyttämään versionhallintaa oleellisena osana jokapäiväistä työskentelyä.
+
+Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoitteena on, että kaikilla osallistujilla on ensimmäisen viikon jälkeen riittävä lähtötaso mm. kokoelmista ja olio-ohjelmoinnista seuraavien aiheiden opiskelemiseksi.
 
 **Suositellut materiaalit**
 
@@ -24,14 +33,17 @@ Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödynt
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät**
+**Tehtävät (DL 29.10.)**
 
-* Git "Hello world" (ks. Teams)
-* Warming up (ks. Teams)
+💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+
+* [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
+* [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
+
 
 ----
 
-### [](#) 2. Map-tietorakenne
+### [](#) Viikko 2: Map-tietorakenne
 
 > *"Hajautustaulu eli HashMap on ArrayListin lisäksi eniten käytettyjä Javan valmiiksi tarjoamia tietorakenteita. Hajautustaulua käytetään kun tietoa käsitellään avain-arvo -pareina, missä avaimen perusteella voidaan lisätä, hakea ja poistaa arvo."*
 >
@@ -43,13 +55,15 @@ Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödynt
 * [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 
-**Tehtävät**
+**Tehtävät (DL 5.11.)**
 
-* Map exercises (GitHub classroom)
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+
+* [Map exercises](https://github.com/ohjelmointi2/map-exercises)
 
 ----
 
-### [](#) 3. Yksikkötestaus
+### [](#) Viikko 3: Yksikkötestaus
 
 Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikkötestejä valmiille koodille.
 
@@ -58,13 +72,13 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 * [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
 * [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
 
-**Tehtävät**
+**Tehtävät (DL 12.11.)**
 
-* JUnit exercise (GitHub classroom)
+* JUnit exercise (linkki tulossa)
 
 ----
 
-### [](#) 4. Perintä ja rajapinnat
+### [](#) Viikko 4: Perintä ja rajapinnat
 
 Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi.
 
@@ -74,14 +88,19 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
 * [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
 
+**Tehtävät (DL 19.11.)**
 
-**Tehtävät**
-
-* Interfaces and inheritance (GitHub classroom)
+* Interfaces and inheritance (linkki tulossa)
 
 -----
 
-### [](#) 5. Streamit ja lambdat
+### [](#) Viikko 5: Streamit ja lambdat
+
+> *"The **Stream API** is probably the second most important feature added to Java SE 8, after the **lambda expressions**. In a nutshell, the Stream API is about providing an implementation of the well known map-filter-reduce algorithm to the JDK.*
+>
+> *The Collections Framework is about storing and organizing your data in the memory of your JVM. You can see the Stream API as a companion framework to the Collections Framework, to process this data in a very efficient way. Indeed, you can open a stream on a collection to process the data it contains."*
+>
+> Processing Data in Memory Using the Stream API. https://dev.java/learn/api/streams/map-filter-reduce/
 
 **Suositellut materiaalit**
 
@@ -90,13 +109,15 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
 * [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 
-**Tehtävät**
+**Tehtävät (DL 26.11.)**
 
-* Streams & Lambdas (GitHub classroom)
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+
+* [Streams and Lambdas](https://github.com/ohjelmointi2/streams-and-lambdas)
 
 -----
 
-### [](#) 6. JDBC & DAO
+### [](#) Viikko 6: JDBC & DAO
 
 Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tustumme myös DAO-kehitysmalliin, jossa sekä tietokantaoperaatiot ja tietokannan sisältämä data mallinnetaan Java-luokkien avulla.
 
@@ -105,15 +126,23 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 * [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 
-**Tehtävät**
+**Tehtävät (DL 3.12.)**
 
-* Chinook, JDBC & DAO (GitHub classroom)
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+
+* [SQL databases (Chinook, JDBC & DAO)](https://github.com/ohjelmointi2/sql-databases/)
 
 -----
 
-### [](#) 7. Tietorakenteet ja algoritmit
+### [](#) Viikko 7: Tietorakenteet ja algoritmit
+
+> *"Algoritmi (algorithm) on toimintaohje, jota seuraamalla voimme ratkaista jonkin laskennallisen ongelman. Algoritmille annetaan syöte (input), joka kuvaa ratkaistavan ongelman tapauksen, ja algoritmin tulee tuottaa tuloste (output), joka on vastaus sille annettuun syötteeseen"*
+>
+> Antti Laaksonen, [Tietorakenteet ja algoritmit -kirja](https://github.com/pllk/tirakirja/raw/master/tirakirja.pdf)
 
 **Suositellut materiaalit**
+
+*Videot*
 
 * [Sorting Algorithms Explained Visually (Beyond Fireship)](https://youtu.be/RfXt_qHDEPw)
 * [Quicksort Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=h8eyY7dIiN4)
@@ -121,17 +150,29 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 * [Insertion Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=0lOnnd50cGI)
 * [Bubble Sort Algorithm Tutorial in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=g8qeaEd2jTc)
 
-**Tehtävät**
+*Artikkelit*
 
-* Tietorakenteet ja algoritmit: filter ja sort (GitHub classroom)
+* [Tietorakenteet ja algoritmit -kirja](https://github.com/pllk/tirakirja/raw/master/tirakirja.pdf)
+* [Algorithms Every Programmer Should Know (dev.to)](https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3)
+* [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
+* [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
+
+**Tehtävät (DL 10.12.)**
+
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+
+* [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering)
 
 
 -----
 
-### [](#) 8. Syventävät ja soveltavat aiheet
+### [](#) Viikko 8: Syventävät ja soveltavat aiheet
 
 Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm. rinnakkaisuuden ja rekursion käsitteisiin.
 
+**Tehtävät (DL 17.12.)**
+
+* Tehtävät julkaistaan kurssin aikana
 
 -----
 
