@@ -5,13 +5,13 @@ Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppi
 
 ## Kurssin sisältö viikoittain:
 
-### Versionhallinta ja kurssin työkalut
+### 1. Versionhallinta ja kurssin työkalut
 
 Edeltävillä kursseilla olet hyödyntänyt todennäköisesti Eclipseä tai VS Codea sekä Viope-tehtäväjärjestelmää. Tällä opintojaksolla laajennamme työkalujen valikoimaa ja hyödynnämme mm. Git-versionhallintaa, Gradle-automaatiotyökalua sekä JUnit-testaustyökalua.
 
 Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödyntämään koko loppukurssin ajan. Tavoitteenamme on, että sovellusta voidaan suorittaa suoraviivaisesti myös koodieditorin ulkopuolella ja että sen kääntäminen, riippuvuuksien asentaminen, paketointi sekä testaaminen voidaan tarvittaessa automatisoida.
 
-#### 1. Suositellut materiaalit
+#### Suositellut materiaalit
 
 **Git**
 
