@@ -2,12 +2,12 @@
 
 Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppimianne ohjelmointitaitoja mm. tietokantojen parissa. Syvennymme kielen syntaksin ja tarvittavien kirjastojen lisäksi myös yksikkötestaukseen, automaatiotyökaluihin sekä versionhallintaan.
 
-Tämä kurssisivu täydentää Ohjelmointi 2 -toteutusten yhteistä [ohjelmointi2.github.io](https://ohjelmointi2.github.io)-sivustoa. Kyseisen sivun virtuaaliopetukseen liittyvät käytännönjärjestelyt eivät ole käytössä lähiope
+Tämä kurssisivu täydentää Ohjelmointi 2 -toteutusten yhteistä [ohjelmointi2.github.io](https://ohjelmointi2.github.io)-sivustoa. Kyseisen sivun virtuaaliopetukseen liittyvät käytännönjärjestelyt eivät ole käytössä lähiopetuksessa.
 
 
 ## [](#) Sisältö viikoittain
 
-Kurssi on maanantaisin ja keskiviikkoisin kello 8:00AM - 10:30AM.
+Kurssi on maanantaisin ja keskiviikkoisin kello 8:00 - 10:30.
 
 Kurssin osasuorituksiin kuuluu viikoittaiset harjoitustehtävät kurssin eri osa-alueista. Tehtävien teknisessä toteutuksessa hyödynnetään GitHub classroom -palvelua sekä Teams-ryhmää. Tehtävät tulee palauttaa aikataulun mukaisesti.
 
@@ -45,16 +45,16 @@ Jotta saat tehtävät tehtyä kokonaan, pitää olla
 ### Git-asetuksia
 Gitin asennuksen jälkeen pitää vielä tehtä pari asetusta eli vähintään GitHub-tunnus ja sähköpostiosoite. Tarvittavat komennot löytyvät mm. oppaasta [git101](https://github.com/mruonavaara/git101#2-gitn-asennus)
 
-Tarvittavat komennot ovat 
-* git config --global user.name="<GitHub-tunnuksesi>"
-* git config --global user.email="<sähköpostiosoitteesi>"
+Tarvittavat komennot ovat:
+* git config --global user.name="GitHub-tunnuksesi"
+* git config --global user.email="sähköpostiosoitteesi"
 * git config --global "core.editor=code --wait"
 
-
+Ja sitten varsinaiset tehtävät. Voit siirtyä lukemaan tehtävän aloitusta.
 * [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
 * [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
 
-### Tehtävän aloitus hyväksyminen
+### Tehtävän aloitus ja hyväksyminen
 
 Tämä ja kurssin seuraavat tehtävät on toteutettu GitHub classroom -palvelun avulla. Hyväksy  *Hello World*-tehtävä osoitteessa https://classroom.github.com/a/9yzAFJQc. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi.
 
@@ -74,7 +74,7 @@ Jotta saat tehtävästä pisteet, palauta Moodleen tehtävärepositoriosi osoite
 💡 Voit palauttaa repon osoitteen Moodleen jo ennen kuin ratkaiset tehtävän kokonaan. Näin repon/tunnuksen palauttaminen ei pääse unohtumaan ja saat tehtävästä varmasti pisteet.
 
 
-Tehtävän arviointi
+#### Tehtävän arviointi
 
 Tehtävän maksimipisteet GitHubissa on 1. Näet saamasi pisteet GitHubissa actions-välilehden kautta raportista, joka on nimetty GitHub Classroom Autograding Workflow. Kopioimme pisteet GitHubista tähän tehtävään tehtävän määräajan jälkeen.
 
