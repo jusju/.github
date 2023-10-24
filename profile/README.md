@@ -35,7 +35,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 **Tehtävät (DL 30.10. KLO 8:00)**
 
-💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
 * [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
 * [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
