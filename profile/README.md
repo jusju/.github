@@ -35,11 +35,53 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 **Tehtävät (DL 30.10. KLO 8:00)**
 
-💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
+💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi*
+
+Jotta saat tehtävät tehtyä kokonaan, pitää olla 
+1. Git asennettuna
+2. Tarvittavat git-asetukset (katso seuraava kappale)
+3. GitHub-tunnus luotuna
+
+### Git-asetuksia
+Gitin asennuksen jälkeen pitää vielä tehtä pari asetusta eli vähintään GitHub-tunnus ja sähköpostiosoite. Tarvittavat komennot löytyvät mm. oppaasta [git101](https://github.com/mruonavaara/git101#2-gitn-asennus)
+
+Tarvittavat komennot ovat 
+* git config --global user.name="<GitHub-tunnuksesi>"
+* git config --global user.email="<sähköpostiosoitteesi>"
+* git config --global "core.editor=code --wait"
+
 
 * [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
 * [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
 
+### Tehtävän aloitus hyväksyminen
+
+Tämä ja kurssin seuraavat tehtävät on toteutettu GitHub classroom -palvelun avulla. Hyväksy  *Hello World*-tehtävä osoitteessa https://classroom.github.com/a/9yzAFJQc. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi.
+
+Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattisen testin. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
+
+Tehtävä warming-up löytyy osoitteesta [warming-up](https://classroom.github.com/a/jMCOqydG) ja linkki auki purettuna: https://classroom.github.com/a/jMCOqydG jos tämä tuntuu selvemmältä. 
+
+**HUOM** tee ensin Hello world-tehtävä ja vasta sitten warming-up.
+
+### Tehtävän palauttaminen
+Lähetä ratkaisusi tehtävärepositorion ohjeiden mukaisesti add-, commit- ja push-komennoilla. GitHub classroom ei pidä kirjaa käyttäjien henkilötiedoista, joten sitä kautta ei voida  suoraan yhdistää ratkaisuja tietyille opiskelijoille.
+
+Jotta saat tehtävästä pisteet, palauta Moodleen tehtävärepositoriosi osoite, joka on muotoa:
+
+   https://github.com/javakurssi/git-hello-world-OMATUNNUS.git
+
+💡 Voit palauttaa repon osoitteen Moodleen jo ennen kuin ratkaiset tehtävän kokonaan. Näin repon/tunnuksen palauttaminen ei pääse unohtumaan ja saat tehtävästä varmasti pisteet.
+
+
+Tehtävän arviointi
+
+Tehtävän maksimipisteet GitHubissa on 1. Näet saamasi pisteet GitHubissa actions-välilehden kautta raportista, joka on nimetty GitHub Classroom Autograding Workflow. Kopioimme pisteet GitHubista tähän tehtävään tehtävän määräajan jälkeen.
+
+Tarkempia ohjeita automaattisen arvioinnin osalta löydät tehtävänannosta sekä GitHubin ohjeista: https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results
+
+### Seuraavien viikkojen tehtävät
+Teätävien hyväksymislinkit tulee tänne sitä mukaan kun viikot etenee. 
 
 ----
 
