@@ -33,7 +33,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 30.10. KLO 8:00)**
+**Tehtävät (DL 6.11. KLO 8:00)**
 
 💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi*
 
