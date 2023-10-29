@@ -91,6 +91,14 @@ Teätävien hyväksymislinkit tulee tänne sitä mukaan kun viikot etenee.
 >
 > [*Agile Education Research –tutkimusryhmä, mooc.fi*](https://ohjelmointi-20.mooc.fi/osa-8/2-hajautustaulu)
 
+**Map-harjoitus**
+Tämän harjoitustehtäväpaketin myötä opit hyödyntämään Map-tietorakennetta omissa sovelluksissasi. Harjoitusten tueksi suosittelemme lukemaan Oraclen [dev.java](https://dev.java/)-tutoriaalista sivut [Using Maps to Store Key Value Pairs](https://dev.java/learn/api/collections-framework/maps/) sekä [Managing the Content of a Map](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/).
+
+**Tehtävän hyväksyminen**
+
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/5A5XrsRA. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattiset testit. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan **5.11.** asti.
+
+
 **Suositellut materiaalit**
 
 * [Map and HashMap in Java (Coding with John, YouTube)](https://youtu.be/H62Jfv1DJlU)
@@ -99,7 +107,7 @@ Teätävien hyväksymislinkit tulee tänne sitä mukaan kun viikot etenee.
 
 **Tehtävät (DL 5.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
 * [Map exercises](https://github.com/ohjelmointi2/map-exercises)
 
@@ -108,21 +116,26 @@ Teätävien hyväksymislinkit tulee tänne sitä mukaan kun viikot etenee.
 ### [](#) Viikko 3: Yksikkötestaus
 
 Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikkötestejä valmiille koodille.
+Viikon tehtävä koostuu Java-harjoituksista, joiden avulla tutustut yksikkötestaukseen JUnit-työkalun avustuksella. Aikaisemmista tehtävistä poiketen tässä tehtävässä ei ole valmiita testejä, vaan kirjoitat testit itse. Testattava Java-luokka sen sijaan on annettuna valmiina.
+
+**Tehtävän hyväksyminen**
+
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/rzB61BbN. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. GitHub classroom suorittaa ratkaisullesi automaattiset testit, kun päivität tehtävärepositoriosi sisällön. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
+**(Palautus 12.11.)**
 
 **Suositellut materiaalit**
 
 * [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
 * [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
 
-**Tehtävät (DL 12.11.)**
-
-* JUnit exercise (linkki tulossa)
 
 ----
 
 ### [](#) Viikko 4: Perintä ja rajapinnat
 
-Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi.
+Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi. Tämä tehtävä sisältää joukon Java-harjoituksia, joiden avulla perehdyt perintään ja rajapintoihin. 
+
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/ZLJjcYA6. Palautus viimeistään **19.11.**
 
 **Suositellut materiaalit**
 
@@ -130,9 +143,9 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
 * [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
 
-**Tehtävät (DL 19.11.)**
+<!-- **Tehtävät (DL 19.11.)**
 
-* Interfaces and inheritance (linkki tulossa)
+* Interfaces and inheritance (linkki tulossa) -->
 
 -----
 
@@ -144,6 +157,10 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 >
 > Processing Data in Memory Using the Stream API. https://dev.java/learn/api/streams/map-filter-reduce/
 
+Tässä tehtävässä perehdytään Javan stream-apiin sekä lambda-lausekkeisiin. Harjoitus on jaettu osiin, joista jokainen sisältää Java-luokan, jossa on keskeneräisiä metodeja. Tavoitteesi on täydentää näiden metodien logiikkaa käyttäen streameja ja lambdoja. 
+
+Harjoitus on osoitteessa https://classroom.github.com/a/TCywb6n6. Palautus viimeistään **26.11.** mennessä.
+
 **Suositellut materiaalit**
 
 * [The Stream API (dev.java)](https://dev.java/learn/api/streams/)
@@ -151,9 +168,9 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
 * [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 
-**Tehtävät (DL 26.11.)**
+<!-- **Tehtävät (DL 26.11.)** -->
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
 * [Streams and Lambdas](https://github.com/ohjelmointi2/streams-and-lambdas)
 
@@ -161,7 +178,9 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 
 ### [](#) Viikko 6: JDBC & DAO
 
-Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tustumme myös DAO-kehitysmalliin, jossa sekä tietokantaoperaatiot ja tietokannan sisältämä data mallinnetaan Java-luokkien avulla.
+Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tutustumme ohessa käsitteisiin kuten JDBC, DAO ja PreparedStatement. 
+
+**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/xt7cXWua. Palautus **3.12.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -170,7 +189,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 3.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
 * [SQL databases (Chinook, JDBC & DAO)](https://github.com/ohjelmointi2/sql-databases/)
 
@@ -181,6 +200,10 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 > *"Algoritmi (algorithm) on toimintaohje, jota seuraamalla voimme ratkaista jonkin laskennallisen ongelman. Algoritmille annetaan syöte (input), joka kuvaa ratkaistavan ongelman tapauksen, ja algoritmin tulee tuottaa tuloste (output), joka on vastaus sille annettuun syötteeseen"*
 >
 > Antti Laaksonen, [Tietorakenteet ja algoritmit -kirja](https://github.com/pllk/tirakirja/raw/master/tirakirja.pdf)
+
+Tässä tehtävässä perehdytään Java-olioista koostuvien listojen suodattamiseen ja lajitteluun eri attribuuttien perusteella. Tavoitteenamme on opetella tiettyjä ennalta valittuja algoritmeja sekä tietorakenteita sekä tehdä koodistamme testattavaa ja uudelleenkäytettävää. 
+
+Tehtävän löydät osoitteesta https://classroom.github.com/a/O4gp6Hfn. Palautus **10.12.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -201,7 +224,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 10.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
 * [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering)
 
