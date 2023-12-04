@@ -233,11 +233,19 @@ Tehtävän löydät osoitteesta https://classroom.github.com/a/O4gp6Hfn. Palautu
 
 ### [](#) Viikko 8: Syventävät ja soveltavat aiheet
 
-Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm. rinnakkaisuuden ja rekursion käsitteisiin.
+Viimeisen viikon tehtävänä on soveltava harjoitus **Commit-history**.
 
-**Tehtävät (DL 17.12.)**
+Tehtävien ratkaisemiseksi on annettu enemmän vapauksia, joten voitkin ratkaista ne monilla eri tavoilla.
 
-* Tehtävät julkaistaan kurssin aikana
+Suosittelemmekin pohtimaan, olisiko erillisten luokkien luominen, stream-operaatiot tai vaikka map-tietorakenne avuksi
+ eri ongelmien ratkaisemisessa.
+
+ 
+Tehtävän löydät osoitteesta https://classroom.github.com/a/UKJMy41C. 
+
+**Tehtävän DL 17.12.**
+
+
 
 -----
 
