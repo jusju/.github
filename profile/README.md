@@ -81,7 +81,7 @@ Tehtävän maksimipisteet GitHubissa on 1. Näet saamasi pisteet GitHubissa acti
 Tarkempia ohjeita automaattisen arvioinnin osalta löydät tehtävänannosta sekä GitHubin ohjeista: https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results
 
 ### Seuraavien viikkojen tehtävät
-Teätävien hyväksymislinkit tulee tänne sitä mukaan kun viikot etenee. 
+Tehtävien hyväksymislinkit tulee tänne sitä mukaan kun viikot etenee. 
 
 ----
 
