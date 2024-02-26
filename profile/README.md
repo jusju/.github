@@ -33,7 +33,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 6.11. KLO 8:00)**
+**Tehtävät (DL 27.3. KLO 8:00)**
 
 💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi*
 
@@ -105,7 +105,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/5A5XrsRA. Hyväksy
 * [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 
-**Tehtävät (DL 5.11.)**
+**Tehtävät (DL 3.4.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
@@ -121,7 +121,7 @@ Viikon tehtävä koostuu Java-harjoituksista, joiden avulla tutustut yksikkötes
 **Tehtävän hyväksyminen**
 
 Hyväksy tehtävä osoitteessa https://classroom.github.com/a/rzB61BbN. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. GitHub classroom suorittaa ratkaisullesi automaattiset testit, kun päivität tehtävärepositoriosi sisällön. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
-**(Palautus 12.11.)**
+**(Palautus 8.4.)**
 
 **Suositellut materiaalit**
 
@@ -135,7 +135,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/rzB61BbN. Hyväksy
 
 Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi. Tämä tehtävä sisältää joukon Java-harjoituksia, joiden avulla perehdyt perintään ja rajapintoihin. 
 
-Hyväksy tehtävä osoitteessa https://classroom.github.com/a/ZLJjcYA6. Palautus viimeistään **19.11.**
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/ZLJjcYA6. Palautus viimeistään **8.4.**
 
 **Suositellut materiaalit**
 
@@ -159,7 +159,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/ZLJjcYA6. Palautus
 
 Tässä tehtävässä perehdytään Javan stream-apiin sekä lambda-lausekkeisiin. Harjoitus on jaettu osiin, joista jokainen sisältää Java-luokan, jossa on keskeneräisiä metodeja. Tavoitteesi on täydentää näiden metodien logiikkaa käyttäen streameja ja lambdoja. 
 
-Harjoitus on osoitteessa https://classroom.github.com/a/TCywb6n6. Palautus viimeistään **26.11.** mennessä.
+Harjoitus on osoitteessa https://classroom.github.com/a/TCywb6n6. Palautus viimeistään **10.4.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -180,14 +180,14 @@ Harjoitus on osoitteessa https://classroom.github.com/a/TCywb6n6. Palautus viime
 
 Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tutustumme ohessa käsitteisiin kuten JDBC, DAO ja PreparedStatement. 
 
-**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/xt7cXWua. Palautus **3.12.** mennessä.
+**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/xt7cXWua. Palautus **15.4.** mennessä.
 
 **Suositellut materiaalit**
 
 * [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 
-**Tehtävät (DL 3.12.)**
+**Tehtävät (DL 17.4.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
@@ -203,7 +203,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 Tässä tehtävässä perehdytään Java-olioista koostuvien listojen suodattamiseen ja lajitteluun eri attribuuttien perusteella. Tavoitteenamme on opetella tiettyjä ennalta valittuja algoritmeja sekä tietorakenteita sekä tehdä koodistamme testattavaa ja uudelleenkäytettävää. 
 
-Tehtävän löydät osoitteesta https://classroom.github.com/a/O4gp6Hfn. Palautus **10.12.** mennessä.
+Tehtävän löydät osoitteesta https://classroom.github.com/a/O4gp6Hfn. Palautus **22.4.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -222,7 +222,7 @@ Tehtävän löydät osoitteesta https://classroom.github.com/a/O4gp6Hfn. Palautu
 * [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
 * [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
 
-**Tehtävät (DL 10.12.)**
+**Tehtävät (DL 24.4.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
@@ -243,7 +243,7 @@ Suosittelemmekin pohtimaan, olisiko erillisten luokkien luominen, stream-operaat
  
 Tehtävän löydät osoitteesta https://classroom.github.com/a/UKJMy41C. 
 
-**Tehtävän DL 17.12.**
+**Tehtävän DL 29.4.**
 
 
 
