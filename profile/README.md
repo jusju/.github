@@ -133,7 +133,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/9yuSnaRF. Hyväksy
 
 Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi. Tämä tehtävä sisältää joukon Java-harjoituksia, joiden avulla perehdyt perintään ja rajapintoihin. 
 
-Hyväksy tehtävä osoitteessa https://classroom.github.com/a/v-ivTW8i. Palautus viimeistään **8.4.**
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/v-ivTW8i. Palautus viimeistään **19.4.**
 
 **Suositellut materiaalit**
 
@@ -157,7 +157,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/v-ivTW8i. Palautus
 
 Tässä tehtävässä perehdytään Javan stream-apiin sekä lambda-lausekkeisiin. Harjoitus on jaettu osiin, joista jokainen sisältää Java-luokan, jossa on keskeneräisiä metodeja. Tavoitteesi on täydentää näiden metodien logiikkaa käyttäen streameja ja lambdoja. 
 
-Harjoitus on osoitteessa https://classroom.github.com/a/wKwUj-iN. Palautus viimeistään **10.4.** mennessä.
+Harjoitus on osoitteessa https://classroom.github.com/a/wKwUj-iN. Palautus viimeistään **26.4.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -178,14 +178,13 @@ Harjoitus on osoitteessa https://classroom.github.com/a/wKwUj-iN. Palautus viime
 
 Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tutustumme ohessa käsitteisiin kuten JDBC, DAO ja PreparedStatement. 
 
-**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/yhApVYWK. Palautus **15.4.** mennessä.
+**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/yhApVYWK. Palautus **3.5.** mennessä.
 
 **Suositellut materiaalit**
 
 * [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 
-**Tehtävät (DL 17.4.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
@@ -201,7 +200,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 Tässä tehtävässä perehdytään Java-olioista koostuvien listojen suodattamiseen ja lajitteluun eri attribuuttien perusteella. Tavoitteenamme on opetella tiettyjä ennalta valittuja algoritmeja sekä tietorakenteita sekä tehdä koodistamme testattavaa ja uudelleenkäytettävää. 
 
-Tehtävän löydät osoitteesta https://classroom.github.com/a/LMAVygQM. Palautus **22.4.** mennessä.
+Tehtävän löydät osoitteesta https://classroom.github.com/a/LMAVygQM. Palautus **10.5.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -220,7 +219,6 @@ Tehtävän löydät osoitteesta https://classroom.github.com/a/LMAVygQM. Palautu
 * [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
 * [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
 
-**Tehtävät (DL 24.4.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
@@ -241,7 +239,7 @@ Suosittelemmekin pohtimaan, olisiko erillisten luokkien luominen, stream-operaat
  
 Tehtävän löydät osoitteesta https://classroom.github.com/a/at1vfuOV. 
 
-**Tehtävän DL 29.4.**
+**Tehtävän DL 17.5.**
 
 
 
