@@ -95,7 +95,7 @@ Tämän harjoitustehtäväpaketin myötä opit hyödyntämään Map-tietorakenne
 
 **Tehtävän hyväksyminen**
 
-Hyväksy tehtävä osoitteessa https://classroom.github.com/a/imvjPYy-. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattiset testit. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan **5.11.** asti.
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/imvjPYy-. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattiset testit. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan **5.4. klo 16:00** asti.
 
 
 **Suositellut materiaalit**
@@ -104,7 +104,6 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/imvjPYy-. Hyväksy
 * [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 
-**Tehtävät (DL 3.4.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi.*
 
@@ -120,7 +119,7 @@ Viikon tehtävä koostuu Java-harjoituksista, joiden avulla tutustut yksikkötes
 **Tehtävän hyväksyminen**
 
 Hyväksy tehtävä osoitteessa https://classroom.github.com/a/9yuSnaRF. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. GitHub classroom suorittaa ratkaisullesi automaattiset testit, kun päivität tehtävärepositoriosi sisällön. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
-**(Palautus 8.4.)**
+**(Palautus 12.4. 16:00)**
 
 **Suositellut materiaalit**
 
