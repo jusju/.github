@@ -56,11 +56,11 @@ Ja sitten varsinaiset tehtävät. Voit siirtyä lukemaan tehtävän aloitusta.
 
 ### Tehtävän aloitus ja hyväksyminen
 
-Tämä ja kurssin seuraavat tehtävät on toteutettu GitHub classroom -palvelun avulla. Hyväksy  *Hello World*-tehtävä osoitteessa https://classroom.github.com/a/9yzAFJQc. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi.
+Tämä ja kurssin seuraavat tehtävät on toteutettu GitHub classroom -palvelun avulla. Hyväksy  *Hello World*-tehtävä osoitteessa https://classroom.github.com/a/q7GUf6eC. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi.
 
 Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattisen testin. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
 
-Tehtävä warming-up löytyy osoitteesta [warming-up](https://classroom.github.com/a/jMCOqydG) ja linkki auki purettuna: https://classroom.github.com/a/jMCOqydG jos tämä tuntuu selvemmältä. 
+Tehtävä warming-up löytyy osoitteesta [warming-up](https://github.com/ohjelmointi2/warming-up) Hyväksy tehtäväsi osoitteessa: https://classroom.github.com/a/N2oFAcI3 jos tämä tuntuu selvemmältä. 
 
 **HUOM** tee ensin Hello world-tehtävä ja vasta sitten warming-up.
 
@@ -96,7 +96,7 @@ Tämän harjoitustehtäväpaketin myötä opit hyödyntämään Map-tietorakenne
 
 **Tehtävän hyväksyminen**
 
-Hyväksy tehtävä osoitteessa https://classroom.github.com/a/5A5XrsRA. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattiset testit. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan **5.11.** asti.
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/imvjPYy-. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattiset testit. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan **5.11.** asti.
 
 
 **Suositellut materiaalit**
