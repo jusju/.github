@@ -50,9 +50,7 @@ Tarvittavat komennot ovat:
 * git config --global user.email="sähköpostiosoitteesi"
 * git config --global "core.editor=code --wait"
 
-Ja sitten varsinaiset tehtävät. Voit siirtyä lukemaan tehtävän aloitusta.
-* [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
-* [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
+
 
 ### Tehtävän aloitus ja hyväksyminen
 
@@ -60,7 +58,7 @@ Tämä ja kurssin seuraavat tehtävät on toteutettu GitHub classroom -palvelun 
 
 Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaattisen testin. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
 
-Tehtävä warming-up löytyy osoitteesta [warming-up](https://github.com/ohjelmointi2/warming-up) Hyväksy tehtäväsi osoitteessa: https://classroom.github.com/a/N2oFAcI3 jos tämä tuntuu selvemmältä. 
+Tehtävä warming-up löytyy osoitteesta [warming-up](https://github.com/ohjelmointi2/warming-up) Hyväksy tehtäväsi osoitteessa: https://classroom.github.com/a/N2oFAcI3 . 
 
 **HUOM** tee ensin Hello world-tehtävä ja vasta sitten warming-up.
 
@@ -120,7 +118,7 @@ Viikon tehtävä koostuu Java-harjoituksista, joiden avulla tutustut yksikkötes
 
 **Tehtävän hyväksyminen**
 
-Hyväksy tehtävä osoitteessa https://classroom.github.com/a/rzB61BbN. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. GitHub classroom suorittaa ratkaisullesi automaattiset testit, kun päivität tehtävärepositoriosi sisällön. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/9yuSnaRF. Hyväksymisen jälkeen GitHub classroom tekee sinulle henkilökohtaisen tehtävärepositorion, josta näet tarkemman tehtävänannon ja johon voit toteuttaa ratkaisusi. GitHub classroom suorittaa ratkaisullesi automaattiset testit, kun päivität tehtävärepositoriosi sisällön. Voit lähettää ratkaisusi arvioitavaksi niin monta kertaa kuin on tarpeen tehtävän määräaikaan asti.
 **(Palautus 8.4.)**
 
 **Suositellut materiaalit**
@@ -135,7 +133,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/rzB61BbN. Hyväksy
 
 Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi. Tämä tehtävä sisältää joukon Java-harjoituksia, joiden avulla perehdyt perintään ja rajapintoihin. 
 
-Hyväksy tehtävä osoitteessa https://classroom.github.com/a/ZLJjcYA6. Palautus viimeistään **8.4.**
+Hyväksy tehtävä osoitteessa https://classroom.github.com/a/v-ivTW8i. Palautus viimeistään **8.4.**
 
 **Suositellut materiaalit**
 
@@ -159,7 +157,7 @@ Hyväksy tehtävä osoitteessa https://classroom.github.com/a/ZLJjcYA6. Palautus
 
 Tässä tehtävässä perehdytään Javan stream-apiin sekä lambda-lausekkeisiin. Harjoitus on jaettu osiin, joista jokainen sisältää Java-luokan, jossa on keskeneräisiä metodeja. Tavoitteesi on täydentää näiden metodien logiikkaa käyttäen streameja ja lambdoja. 
 
-Harjoitus on osoitteessa https://classroom.github.com/a/TCywb6n6. Palautus viimeistään **10.4.** mennessä.
+Harjoitus on osoitteessa https://classroom.github.com/a/wKwUj-iN. Palautus viimeistään **10.4.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -180,7 +178,7 @@ Harjoitus on osoitteessa https://classroom.github.com/a/TCywb6n6. Palautus viime
 
 Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tutustumme ohessa käsitteisiin kuten JDBC, DAO ja PreparedStatement. 
 
-**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/xt7cXWua. Palautus **15.4.** mennessä.
+**Tehtävä** löytyy osoitteesta https://classroom.github.com/a/yhApVYWK. Palautus **15.4.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -203,7 +201,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 Tässä tehtävässä perehdytään Java-olioista koostuvien listojen suodattamiseen ja lajitteluun eri attribuuttien perusteella. Tavoitteenamme on opetella tiettyjä ennalta valittuja algoritmeja sekä tietorakenteita sekä tehdä koodistamme testattavaa ja uudelleenkäytettävää. 
 
-Tehtävän löydät osoitteesta https://classroom.github.com/a/O4gp6Hfn. Palautus **22.4.** mennessä.
+Tehtävän löydät osoitteesta https://classroom.github.com/a/LMAVygQM. Palautus **22.4.** mennessä.
 
 **Suositellut materiaalit**
 
@@ -241,7 +239,7 @@ Suosittelemmekin pohtimaan, olisiko erillisten luokkien luominen, stream-operaat
  eri ongelmien ratkaisemisessa.
 
  
-Tehtävän löydät osoitteesta https://classroom.github.com/a/UKJMy41C. 
+Tehtävän löydät osoitteesta https://classroom.github.com/a/at1vfuOV. 
 
 **Tehtävän DL 29.4.**
 
