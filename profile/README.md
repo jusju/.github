@@ -33,7 +33,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 27.3. KLO 8:00)**
+
 
 💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi*
 
@@ -61,6 +61,7 @@ Kun saat tehtävän valmiiksi GitHub classroom suorittaa ratkaisullesi automaatt
 Tehtävä warming-up löytyy osoitteesta [warming-up](https://github.com/ohjelmointi2/warming-up) Hyväksy tehtäväsi osoitteessa: https://classroom.github.com/a/N2oFAcI3 . 
 
 **HUOM** tee ensin Hello world-tehtävä ja vasta sitten warming-up.
+**Tehtävät (DL 28.3. KLO 16:00)**
 
 ### Tehtävän palauttaminen
 Lähetä ratkaisusi tehtävärepositorion ohjeiden mukaisesti add-, commit- ja push-komennoilla. GitHub classroom ei pidä kirjaa käyttäjien henkilötiedoista, joten sitä kautta ei voida  suoraan yhdistää ratkaisuja tietyille opiskelijoille.
